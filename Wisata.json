@@ -1,0 +1,32 @@
+[
+    {
+        "nama_wisata": "pantai Lamaru",
+        "lokasi": "balikpapan",
+        "tahun": 1998,
+        "harga_tiket": 35000
+    },
+    {
+        "nama_wisata": "danau toba",
+        "lokasi": "sumatera utara",
+        "tahun": 1980,
+        "harga_tiket": 75500
+    },
+    {
+        "nama_wisata": "gunung bromo",
+        "lokasi": "jawa timur",
+        "tahun": 1995,
+        "harga_tiket": 100000
+    },
+    {
+        "nama_wisata": "tes",
+        "lokasi": "jawa",
+        "tahun": 2000,
+        "harga_tiket": 100000
+    },
+    {
+        "nama_wisata": "kawah putih",
+        "lokasi": "bandung",
+        "tahun": 2006,
+        "harga_tiket": 88000
+    }
+]
