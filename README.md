@@ -13,7 +13,7 @@
 
  ![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/d953b9fab1b1e16b9929db9246f4460ee3792ee6/Flowcart%20PA.png)
 
- ##Penjelasan Mengenai Output Login
+ ## Penjelasan Mengenai Output Login
 
 1.Ada 4 Pilihan Output 
 
