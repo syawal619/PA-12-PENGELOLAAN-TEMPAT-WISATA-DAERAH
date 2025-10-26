@@ -1,0 +1,242 @@
+[
+    {
+        "username": "manager",
+        "nama_wisata": "Danau Toba",
+        "harga_satuan": 100000,
+        "jumlah_tiket": 2,
+        "total_harga": 200000,
+        "tanggal": "2025-10-13"
+    },
+    {
+        "username": "manager",
+        "nama_wisata": "Kawah Putih",
+        "harga_satuan": 75000,
+        "jumlah_tiket": 5,
+        "total_harga": 375000,
+        "tanggal": "2025-10-13"
+    },
+    {
+        "username": "manager",
+        "nama_wisata": "Danau Toba",
+        "harga_satuan": 100000,
+        "jumlah_tiket": 4,
+        "total_harga": 400000,
+        "tanggal": "2025-10-13"
+    },
+    {
+        "username": "manager",
+        "nama_wisata": "Danau Toba",
+        "harga_satuan": 100000,
+        "jumlah_tiket": 2,
+        "total_harga": 200000,
+        "tanggal": "2025-10-13"
+    },
+    {
+        "username": "user",
+        "nama_wisata": "Danau Toba",
+        "harga_satuan": 100000,
+        "jumlah_tiket": 2,
+        "total_harga": 200000,
+        "tanggal": "2025-10-14"
+    },
+    {
+        "username": "karyawan",
+        "nama_wisata": "Danau Toba",
+        "harga_satuan": 100000,
+        "jumlah_tiket": 10,
+        "total_harga": 1000000,
+        "tanggal": "2025-10-15"
+    },
+    {
+        "username": "Pembeli",
+        "nama_wisata": "Danau Toba",
+        "harga_satuan": 75500,
+        "jumlah_tiket": 3,
+        "total_harga": 226500,
+        "tanggal": "2025-10-15"
+    },
+    {
+        "username": "Pembeli",
+        "nama_wisata": "Pantai Lamaru",
+        "harga_satuan": 35000,
+        "jumlah_tiket": 3,
+        "total_harga": 105000,
+        "tanggal": "2025-10-15"
+    },
+    {
+        "username": "Awang",
+        "nama_wisata": "Raja Ampat",
+        "harga_satuan": 135000,
+        "jumlah_tiket": 4,
+        "total_harga": 540000,
+        "tanggal": "2025-10-15"
+    },
+    {
+        "username": "syawal",
+        "nama_wisata": "Pantai Lamaru",
+        "harga_satuan": 35000,
+        "jumlah_tiket": 1,
+        "total_harga": 35000,
+        "tanggal": "2025-10-16"
+    },
+    {
+        "username": "syawal",
+        "nama_wisata": "Danau Toba",
+        "harga_satuan": 75500,
+        "jumlah_tiket": 4,
+        "total_harga": 302000,
+        "tanggal": "2025-10-16"
+    },
+    {
+        "username": "alya",
+        "nama_wisata": "Danau Toba",
+        "harga_satuan": 75500,
+        "jumlah_tiket": 2,
+        "total_harga": 151000,
+        "tanggal": "2025-10-16 11:19:12"
+    },
+    {
+        "username": "alya",
+        "nama_wisata": "Danau Toba",
+        "harga_satuan": 75500,
+        "jumlah_tiket": 2,
+        "total_harga": 151000,
+        "tanggal": "2025-10-16 11:23:20"
+    },
+    {
+        "username": "mba camel",
+        "nama_wisata": "Kawah Putih",
+        "harga_satuan": 88000,
+        "jumlah_tiket": 2,
+        "total_harga": 176000,
+        "tanggal": "2025-10-16 21:45:29"
+    },
+    {
+        "username": "alya",
+        "nama_wisata": "Raja Ampat",
+        "harga_satuan": 135000,
+        "jumlah_tiket": 3,
+        "total_harga": 405000,
+        "tanggal": "2025-10-16 21:49:31"
+    },
+    {
+        "username": "syawal",
+        "nama_wisata": "Danau Toba",
+        "harga_satuan": 75500,
+        "jumlah_tiket": 2,
+        "total_harga": 151000,
+        "tanggal": "2025-10-16 21:58:24"
+    },
+    {
+        "username": "syawal",
+        "nama_wisata": "Danau Toba",
+        "harga_satuan": 75500,
+        "jumlah_tiket": 5,
+        "total_harga": 377500,
+        "tanggal": "2025-10-16 23:40:12"
+    },
+    {
+        "username": "syawal",
+        "nama_wisata": "Kawah Putih",
+        "harga_satuan": 88000,
+        "jumlah_tiket": 3,
+        "total_harga": 264000,
+        "tanggal": "2025-10-16 23:43:01"
+    },
+    {
+        "username": "syawal",
+        "nama_wisata": "Raja Ampat",
+        "harga_satuan": 135000,
+        "jumlah_tiket": 2,
+        "total_harga": 270000,
+        "tanggal": "2025-10-16 23:46:40"
+    },
+    {
+        "username": "syawal",
+        "nama_wisata": "Danau Toba",
+        "harga_satuan": 75500,
+        "jumlah_tiket": 3,
+        "total_harga": 226500,
+        "tanggal": "2025-10-16 23:52:59"
+    },
+    {
+        "username": "bella",
+        "nama_wisata": "Danau Toba",
+        "harga_satuan": 75500,
+        "jumlah_tiket": 2,
+        "total_harga": 151000,
+        "tanggal": "2025-10-17 00:00:00"
+    },
+    {
+        "username": "bella",
+        "nama_wisata": "kawah putih",
+        "harga_satuan": 88000,
+        "jumlah_tiket": 2,
+        "total_harga": 176000,
+        "tanggal": "2025-10-17 00:18:00"
+    },
+    {
+        "username": "bella",
+        "nama_wisata": "pantai Lamaru",
+        "harga_satuan": 35000,
+        "jumlah_tiket": 2,
+        "total_harga": 70000,
+        "tanggal": "2025-10-17 00:23:07"
+    },
+    {
+        "username": "bella",
+        "nama_wisata": "raja ampat",
+        "harga_satuan": 135000,
+        "jumlah_tiket": 1,
+        "total_harga": 135000,
+        "tanggal": "2025-10-17 00:34:19"
+    },
+    {
+        "username": "kiki",
+        "nama_wisata": "danau toba",
+        "harga_satuan": 75500,
+        "jumlah_tiket": 1,
+        "total_harga": 75500,
+        "tanggal": "2025-10-17 13:28:50"
+    },
+    {
+        "username": "bella",
+        "nama_wisata": "pantai Lamaru",
+        "harga_satuan": 35000,
+        "jumlah_tiket": 5,
+        "total_harga": 175000,
+        "tanggal": "2025-10-20 21:26:08"
+    },
+    {
+        "username": "wongireng",
+        "nama_wisata": "raja ampat",
+        "harga_satuan": 135000,
+        "jumlah_tiket": 14,
+        "total_harga": 1890000,
+        "tanggal": "2025-10-21 21:47:54"
+    },
+    {
+        "username": "mba camel",
+        "nama_wisata": "pantai Lamaru",
+        "harga_satuan": 35000,
+        "jumlah_tiket": 4,
+        "total_harga": 140000,
+        "tanggal": "2025-10-22 13:36:14"
+    },
+    {
+        "username": "syawal",
+        "nama_wisata": "kawah putih",
+        "harga_satuan": 88000,
+        "jumlah_tiket": 2,
+        "total_harga": 176000,
+        "tanggal": "2025-10-24 22:08:20"
+    },
+    {
+        "username": "mba camel",
+        "nama_wisata": "danau toba",
+        "harga_satuan": 75500,
+        "jumlah_tiket": 1,
+        "total_harga": 75500,
+        "tanggal": "2025-10-26 12:29:51"
+    }
+]
