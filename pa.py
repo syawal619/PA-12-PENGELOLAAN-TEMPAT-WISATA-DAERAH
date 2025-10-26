@@ -1,8 +1,9 @@
 # Kelompok 12
-# Nama : Muhammad Syawal Samir(2509116079)
-# Nama : Alya aulia(2509116060)
-# Nama : Selvi Bella Dwi Anita(2509116053)
-# Tema : PENGELOLAAN TEMPAT WISATA DAERAH
+# Nama  : Muhammad Syawal Samir(2509116079)
+# Nama  : Alya aulia(2509116060)
+# Nama  : Selvi Bella Dwi Anita(2509116053)
+# Tema  : PENGELOLAAN TEMPAT WISATA DAERAH
+# Kelas : Sistem Informasi (B)
 
 
 import json
@@ -533,4 +534,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
