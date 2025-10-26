@@ -82,6 +82,11 @@
 -admin bisa mengeluarkan akunnya setelah selesai bekerja 
 
 
+## Penjelasan Mengenai Ouput Admin
+
+
+
+
 
 
 
