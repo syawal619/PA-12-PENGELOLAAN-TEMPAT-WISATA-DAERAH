@@ -1,0 +1,42 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "Admin",
+        "saldo": 0
+    },
+    "alya": {
+        "password": "alya123",
+        "role": "User",
+        "saldo": 47500
+    },
+    "bella": {
+        "password": "bella123",
+        "role": "User",
+        "saldo": 340000
+    },
+    "mba camel": {
+        "password": "camel123",
+        "role": "User",
+        "saldo": 990600
+    },
+    "bang dani": {
+        "password": "dani123",
+        "role": "User",
+        "saldo": 400000
+    },
+    "syawal": {
+        "password": "syawal123",
+        "role": "User",
+        "saldo": 1824000
+    },
+    "awang": {
+        "password": "awang123",
+        "role": "User",
+        "saldo": 0
+    },
+    "sultan": {
+        "password": "sultan123",
+        "role": "User",
+        "saldo": 0
+    }
+}
