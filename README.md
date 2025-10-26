@@ -11,5 +11,5 @@
 
  #Flowcart Pengelolaan Tempat wisata Daerah
 
- ![img alt](<img width="1015" height="466" alt="{F64D6F94-0FD2-409A-8A18-05D1AEA2B7EA}" src="https://github.com/user-attachments/assets/d4555db7-17c3-41ba-a260-0cedc470ea20")
+ ![img alt](
 
