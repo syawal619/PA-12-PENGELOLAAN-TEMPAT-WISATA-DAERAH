@@ -158,7 +158,7 @@
 
 ![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/a9863b5842e089b08888248f796f96a48fef4184/menu%20keluar.png)
 
--Menu keluar ketika sudah selsai makan programnya akan berhenti 
+-Menu keluar ketika sudah selsai maka programnya akan berhenti 
 
 
 
