@@ -16,6 +16,9 @@
  ##Penjelasan Mengenai Output Login
 
 1.Ada 4 Pilihan Output 
+![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/2b582bf113f51b8d505a5249c99c7cba839913a9/Output%20Pilihan.png)
+
+-jadi disini ada 4 menu ada:admin,user,regristrasi dan logout
 
 
 
