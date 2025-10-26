@@ -1,3 +1,10 @@
+# Kelompok 12
+# Nama : Muhammad Syawal Samir(2509116079)
+# Nama : Alya aulia(2509116060)
+# Nama : Selvi Bella Dwi Anita(2509116053)
+
+
+
 import json
 import datetime
 import pwinput
@@ -524,4 +531,5 @@ def main():
             print("\nPilihan tidak ada.\n")
 
 if __name__ == "__main__":
+
     main()
