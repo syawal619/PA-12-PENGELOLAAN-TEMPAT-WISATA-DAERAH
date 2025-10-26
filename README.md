@@ -79,10 +79,93 @@
 
 ![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/f8c695c3b7fad5aeeba579d2b2e62690c93477d8/logout.png)
 
--admin bisa mengeluarkan akunnya setelah selesai bekerja 
+-admin bisa mengeluarkan akunnya setelah selesai bekerja dan kembali ke menu utama
 
 
 ## Penjelasan Mengenai Ouput Admin
+
+1.disini kalian disuruh login pake akun kalian atau bisa disebut user
+
+![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/16e454caf4a61e6dec3988f4cf788561271fc613/login%20user.png)
+
+-disini mengecek akun anda apakah benar atau salah jika bener maka lanjut programnnya
+
+2.disini menu user ada 6 pilihan
+
+![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/9db7ccbfbb9dc88a8ea8098093f187ca2435731d/menu%20user.png)
+
+-disini ada 6 menu saya akan jelaskan masing masing menu
+
+3.menu yang pertama ada lihat wisata
+
+![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/7ed6cf080bc58e75dcf4a4b945a313cb8e8e029c/lihat%20wisata.png)
+
+-disini pembeli atau user bisa melihat wisata yang ada di programnnya
+
+4.menu kedua ada mencari wisata
+
+![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/72ad7ce76e34fe15677c3237fd9ec42fc6ccbd4f/cari%20wisata.png)
+
+-disini user bisa mencari wisata cari ndak ribet lah istilahnya
+
+5.menu ketiga membeli tiket
+
+![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/63c5a6fa0a41eaff67d8a16a5bc151a77e762c35/saldo%20tidak%20cukup.png)
+
+-disini saldo tidak cukup dan ada total tiket jadi kita akan top up terlebih dahulu
+
+6.menu keempat ada Top Up saldo
+
+![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/67173015107ac8a41944e845a8e55e052b90ffdc/minimal10.000%20max%202.000.000.png)
+
+-Top up berhasil Minimal 10.000 dan Maksimal 2.000.000
+
+7.setelah berhsil Top up kita kembali ke menu membeli tiket
+
+![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/e3622afc8149b95d4249b6bcf8f482d791577631/beli%20tiket.png)
+
+-pembelian berhasil jadi otomatis Tiket Kita Berkurang Dan ada nota
+
+8.lanjut menu kelima ada Laporan Tranksaksi
+
+![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/f7241ad2456a81f77ecf4d2ff32c0f3f2b302164/riwayat%20tranksaksi.png)
+
+-disini Laporan Tranksaksi maksudnya Pembeli Bisa melihat tranksaksi nya dan pembeli lain agar tidak kena tipu oleh tempat wisata
+
+9.terakhir menu keenam ada logout
+
+![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/f5a724949bdc80b75a9bec7757a6d23e3fbeadeb/logout.png)
+
+-terakhir ini ada logout artinya setelah user sudah melakukan pembayaran dan membeli tiket Dan akan kembali ke menu awal
+
+## Penjelasan Mengenai Output Regristrasi
+
+1.Pertama kita Regristasi akun terlebih dahulu
+
+![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/361fcac6dbb9f059573962815f910b11649606ad/regristasi%20akun.png)
+
+-Regristasi akun akan disuruh masukkan user dan passwrod setelah itu akun akan terbuat
+
+2.masukkan ke menu login user apakah user sudah terdaftar
+
+![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/509bc085a198138553176118eeb70874e18e4958/akun%20sultan.png)
+
+-akun sudah terdaftar dan bisa dijalankan di menu user yg sudah dijelaskan diatas
+
+## Penjelasan mengenai menu keluar
+
+1.Menu terakhir yaitu keluar
+
+![img alt](https://github.com/syawal619/PA-12-PENGELOLAAN-TEMPAT-WISATA-DAERAH/blob/a9863b5842e089b08888248f796f96a48fef4184/menu%20keluar.png)
+
+-Menu keluar ketika sudah selsai makan programnya akan berhenti 
+
+
+
+
+
+
+
 
 
 
